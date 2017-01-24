@@ -1,0 +1,29 @@
+h1 {
+  color: white;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h2 {
+  color:white;
+  font-family: Georgia;
+}
+p {
+  color: white;
+  font-family: Droid Serif;
+}
+
+body {
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+.center-image {
+  text-align: center;
+}
+
+.city-cell {
+  font-size: 18px
+  font-family: Droid Serif;
+  text-align: center;
+}
